@@ -1,0 +1,22 @@
+{
+  "nazwa" : "www.amazon.com",
+  "produkty" : [
+    {
+      "typ" : "komputer",
+      "id": 1,
+      "nazwa" : "Apple",
+      "cena" : 1000.99,
+      "marka" : "asdf",
+      "ram" : 8
+    },
+
+    {
+      "typ" : "dron",
+      "id" : 2,
+      "nazwa" : "dron",
+      "cena" : 899,
+      "zasieg" : 3.45,
+      "czyMaKamere" :
+    }
+  ]
+}
